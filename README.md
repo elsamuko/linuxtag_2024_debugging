@@ -1,6 +1,7 @@
 # Debugging Techniques
 
 * Address Sanitizer
+    * https://github.com/elsamuko/asan_demo
 * Valgrind
 * GDB Scripting
 * strace
