@@ -1,11 +1,16 @@
 # Debugging Techniques
 
-* Address Sanitizer
+* Debugging (gdb, Qt Creator)
+* [x] Address Sanitizer
     * https://github.com/elsamuko/asan_demo
-* Valgrind
+* [x] Valgrind
+* [x] strace
+* Qt/GDB Debugging Helper
+* [x] coredump
+* [x] pefile/lief
+    * https://lief.re/
+    * https://github.com/erocarrera/pefile
 * GDB Scripting
-* strace
-* ptrace
-* Qt/GDB debugging helper
-* pefile
-* coredump
+
+Opt:
+* rr
