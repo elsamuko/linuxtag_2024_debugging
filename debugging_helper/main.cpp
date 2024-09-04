@@ -4,7 +4,7 @@
 #define LOG( A ) std::cout << A << std::endl;
 
 struct Hase {
-    std::vector<int> numbers = { 1, 2, 3 };
+    std::vector<int> numbers = { 11, 22, 33 };
 
     __attribute__( ( used ) )
     int& operator[]( const int pos ) { return numbers[pos]; }

@@ -6,6 +6,8 @@
 * [x] Valgrind
 * [x] strace
 * Qt/GDB Debugging Helper
+    * https://github.com/geordi/qtcreator-debugging-helpers/blob/master/opencv_types.py
+    * https://github.com/qt-creator/qt-creator/tree/master/share/qtcreator/debugger
 * [x] coredump
 * [x] pefile/lief
     * https://lief.re/
@@ -13,4 +15,4 @@
 * GDB Scripting
 
 Opt:
-* rr
+* https://rr-project.org/
