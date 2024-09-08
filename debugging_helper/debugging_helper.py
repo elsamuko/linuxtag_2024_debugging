@@ -1,10 +1,11 @@
 import os
 import dumper
+import tempfile
 
 
 def log(arg):
-    dir = os.getenv("TMPDIR")
-    f = open(dir + "dumper.log", "a")
+    dir = tempfile.gettempdir()
+    f = open(dir + "/dumper.log", "a")
     f.write(arg + "\n")
     f.close()
 
