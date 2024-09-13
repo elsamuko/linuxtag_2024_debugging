@@ -16,6 +16,7 @@
     * https://lief.re/
     * https://github.com/erocarrera/pefile
 * [x] GDB Scripting
+    * http://blog.vmsplice.net/2020/02/an-introduction-to-gdb-scripting-in.html?m=1
 
 Opt:
 * https://rr-project.org/
