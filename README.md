@@ -1,6 +1,8 @@
 # Debugging Techniques
 
 * Debugging (gdb, Qt Creator)
+    * `b main`
+    * `help running`
     * `t a a bt`
 * [x] Address Sanitizer
     * https://github.com/elsamuko/asan_demo
@@ -13,7 +15,7 @@
 * [x] pefile/lief
     * https://lief.re/
     * https://github.com/erocarrera/pefile
-* GDB Scripting
+* [x] GDB Scripting
 
 Opt:
 * https://rr-project.org/
