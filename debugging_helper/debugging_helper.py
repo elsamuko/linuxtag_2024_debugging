@@ -1,4 +1,3 @@
-import os
 import dumper
 import tempfile
 
