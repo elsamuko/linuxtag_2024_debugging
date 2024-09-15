@@ -2,6 +2,10 @@
 
 * Debugging (gdb, Qt Creator)
     * `b main`
+    * `run`
+    * `next`
+    * `print`
+    * `c`
     * `help running`
     * `t a a bt`
 * [x] Address Sanitizer
